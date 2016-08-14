@@ -28,7 +28,7 @@ It's based on patches made by Giovanni Campagna: https://bugzilla.gnome.org/show
 ## Installation
 Normal users are recommended to get the extension from [extensions.gnome.org](https://extensions.gnome.org/extension/615/appindicator-support/).
 
-Alternatively, you can check out a version from git and symlink `~/.local/share/gnome-shell/extensions/shemgp@yahoo.com` to your clone (this is how I do it - you are of course free
+Alternatively, you can check out a version from git and symlink `~/.local/share/gnome-shell/extensions/appindicator@shemgp.yahoo.com` to your clone (this is how I do it - you are of course free
 to do whatever you want).
 
 Don't forget to restart the Shell (`alt+f2`, `r`, `⏎`) and enable the extension in `gnome-tweak-tool`.
